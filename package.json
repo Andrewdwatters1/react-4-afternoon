@@ -9,7 +9,7 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "react-scripts": "1.0.11"
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "concurrently  \"react-scripts start\" \"json-server --watch db.json --port 3005 --delay 500\"",
